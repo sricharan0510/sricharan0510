@@ -55,9 +55,9 @@
 ---
 
 ## 📫 How to Reach Me  
-- ✉️ Email: **sricharan0504@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/sricharan](#)  
-- 🌍 Portfolio: [sricharan.vercel.app](#) *(replace with your real portfolio link when ready)*  
+- ✉️ Email: **sricharan0504@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/sricharan](https://www.linkedin.com/in/sricharan-illandula-0a61b22a4/)  
+- 🌍 Portfolio: (https://sricharan-portfolio.onrender.com/)  
 
 ---
 
