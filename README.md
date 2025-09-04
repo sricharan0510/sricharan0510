@@ -99,22 +99,18 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📈 GitHub Stats  
 
 <div align="center">
-
-  <!-- Left Card -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sricharan0510&show_icons=true&theme=radical" />
-
-  <!-- Right Card -->
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sricharan0510&theme=radical&hide_border=false" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sricharan0510&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sricharan0510&theme=tokyonight&hide_border=true&border_radius=12" height="180px" />
 </div>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharan0510&theme=react-dark&hide_border=true" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharan0510&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
 
 
 ---
