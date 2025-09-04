@@ -1,13 +1,12 @@
-<!-- Banner or Greeting Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Sricharan+Illandula;Full-Stack+Developer;Cloud+%7C+DevOps+Enthusiast;Passionate+Problem+Solver;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Sricharan+Illandula;Full-Stack+Developer;React+Native+App+Developer;Passionate+Problem+Solver;Welcome+to+my+Profile!" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-1e90ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-228B22?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Problem%20Solver-ff9800?style=for-the-badge&logo=codewars&logoColor=white"/>
   <img src="https://img.shields.io/badge/Always%20Learning-8e44ad?style=for-the-badge&logo=readme&logoColor=white"/>
 </p>
@@ -17,23 +16,49 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Sricharan Illandula**
-- 🚀 Full-Stack Developer | Cloud & DevOps Enthusiast
+- 🚀 Full-Stack Developer | React Native App Developer
 - 💡 Tech Explorer | Passionate About Clean, Scalable Solutions
 - 🧩 Lifelong Learner & Collaborator
 
 ---
 
-## 🚀 My Tech Toolbox
+## 🛠️ Technical Skills
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css" />
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux" />
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,figma" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+</p>
+
+<!-- Core Competencies (inline) -->
+<p align="center">
+  <b>Software Engineering • Algorithm Design • Problem Solving • Code Optimization • Manual Testing • Quality Assurance</b>
 </p>
 
 ---
@@ -83,15 +108,6 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharan0510&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
-
----
-
-## 📚 Currently Exploring
-
-- Advanced **React.js** & **TypeScript**
-- **Cloud Engineering**: Docker, AWS Fundamentals
-- **DevOps Best Practices** & CI/CD Automation
-- Building Robust & Scalable Backend APIs
 
 ---
 
